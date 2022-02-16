@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harykemi
-- 👀 I’m interested in Data science
+- 👀 I’m interested in Data analytics
 - 🌱 I’m currently learning Python 
 - 💞️ I’m looking to collaborate on projects on Excel, SQL, PowerBi
 - 📫 How to reach me seunolarewaju001@gmail.com
